@@ -31,7 +31,7 @@ spec:
     spec:
       containers:
       - name: mymart
-        image: bhanuchandarreddy/mymart:latest
+        image: bhanuchanderreddy/mymart:latest
         ports:
         - containerPort: 8080
         livenessProbe:
